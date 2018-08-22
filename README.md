@@ -24,10 +24,6 @@
 
 > Use the power of Tinker within your Nova application.
 
-* [Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
-
-> Check if you're running the latest Laravel version right from your Nova dashboard.
-
 * [Backup](https://github.com/spatie/nova-backup-tool)
 
 > A Laravel Nova tool to backup your app.
@@ -39,3 +35,9 @@
 * [Cashier Manager](https://github.com/themsaid/nova-cashier-manager)
 
 > Managing Stripe subscriptions inside the incredible Laravel Nova admin panel.
+
+### Cards
+
+* [Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
+
+> Check if you're running the latest Laravel version right from your Nova dashboard.

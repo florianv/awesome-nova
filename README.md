@@ -14,7 +14,9 @@
 * [Nova Documentation](https://nova.laravel.com/docs/1.0/installation.html)
 * [Nova Documentation Repository](https://github.com/laravel/nova-docs) 
 
-### Tools
+### Customization
+
+#### Tools
 
 * [Skeleton](https://github.com/spatie/skeleton-nova-tool)
 
@@ -36,7 +38,7 @@
 
 > Managing Stripe subscriptions inside the incredible Laravel Nova admin panel.
 
-### Cards
+#### Cards
 
 * [Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
 

@@ -40,6 +40,18 @@
 
 #### Cards
 
-* [Laravel Update Card](https://github.com/beyondcode/nova-laravel-update-card)
+* [Laravel Update](https://github.com/beyondcode/nova-laravel-update-card)
 
 > Check if you're running the latest Laravel version right from your Nova dashboard.
+
+* [Package Discovery](https://github.com/tightenco/nova-package-discovery)
+
+> Nova card for showing stats from novapackages.com
+
+* [Custom Dashboard](https://github.com/beyondcode/nova-custom-dashboard-card)
+
+> A Laravel Nova dashboard card that allows you to build custom dashboards.
+
+* [Cache](https://github.com/dannyvink/nova-cache-card)
+
+> Manage your application's cache from a handy Laravel Nova dashboard card.

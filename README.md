@@ -54,3 +54,5 @@
 * [Custom Dashboard](https://github.com/beyondcode/nova-custom-dashboard-card). A Laravel Nova dashboard card that allows you to build custom dashboards.
 
 * [Cache](https://github.com/dannyvink/nova-cache-card). Manage your application's cache from a handy Laravel Nova dashboard card.
+
+* [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card). Get some insight on your Algolia indexing with this easy to use Nova card.

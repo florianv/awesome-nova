@@ -14,6 +14,10 @@
 * [Nova Documentation](https://nova.laravel.com/docs/1.0/installation.html)
 * [Nova Documentation Repository](https://github.com/laravel/nova-docs) 
 
+#### Articles
+
+* [Getting Started with Laravel Nova](https://nick-basile.com/blog/post/getting-started-with-laravel-nova)
+
 ### Customization
 
 #### Tools

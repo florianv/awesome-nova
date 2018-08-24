@@ -56,3 +56,6 @@
 * [Cache](https://github.com/dannyvink/nova-cache-card). Manage your application's cache from a handy Laravel Nova dashboard card.
 
 * [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card). Get some insight on your Algolia indexing with this easy to use Nova card.
+
+### Fields
+[Nova Trumbowyg](https://github.com/Johnathan/nova-trumbowyg/). Nova field that provides a Trumbowyg WYSIWYG editor.

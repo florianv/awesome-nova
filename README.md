@@ -59,6 +59,8 @@
 
 * [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card). Get some insight on your Algolia indexing with this easy to use Nova card.
 
+* [Nova Cloudflare Card](https://github.com/zOxta/nova-cloudflare-card). Purge your CloudFlare's cache in two clicks from a Laravel Nova dashboard card.
+
 ### Fields
 
 * [Nova Trumbowyg](https://github.com/Johnathan/nova-trumbowyg/). Nova field that provides a Trumbowyg WYSIWYG editor.

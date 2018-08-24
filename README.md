@@ -45,6 +45,8 @@
 
 * [Cashier Manager](https://github.com/themsaid/nova-cashier-manager). Managing Stripe subscriptions inside the incredible Laravel Nova admin panel.
 
+* [Logs](https://github.com/KABBOUCHI/nova-logs-tool). A Laravel Nova tool to manage and keep track of each one of your logs files.
+
 ### Cards
 
 * [Laravel Update](https://github.com/beyondcode/nova-laravel-update-card). Check if you're running the latest Laravel version right from your Nova dashboard.

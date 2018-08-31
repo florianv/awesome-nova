@@ -28,6 +28,7 @@
 ## Videos
 
 * [Laracon 2018 Keynote](https://www.youtube.com/watch?v=pLcM3mpZSV0)
+* [Laravel Nova Overview](https://www.youtube.com/watch?v=aOAN41eAbLs)
 
 ## Packages
 

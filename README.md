@@ -34,6 +34,10 @@
 
 * [Nova Packages](https://novapackages.com). Discover new packages. Build amazing things.
 
+### Actions
+
+* [Excel](https://github.com/Maatwebsite/Laravel-Nova-Excel/). Nova action that adds out-of-the-box resource exports to Laravel Nova.
+
 ### Tools
 
 * [Skeleton](https://github.com/spatie/skeleton-nova-tool). A skeleton repository for Spatie's Nova Packages.

@@ -24,7 +24,7 @@
 * [Getting Started with Laravel Nova](https://medium.com/@nickjbasile/getting-started-with-laravel-nova-f2a04fa9df82)
 * [Deep Diving Laravel Nova](https://medium.com/@nickjbasile/deep-diving-laravel-nova-6eb413a081ee)
 * [Common problems when setting up Laravel Nova](https://medium.com/@franz_40702/common-problems-when-setting-up-laravel-nova-fcd651731cc8)
-
+* [Einfache Administration mit Laraval Nova](https://orlyapps.de/blog/web/einfache-administration-mit-laravel-nova) (German)
 ## Videos
 
 * [Laracon 2018 Keynote](https://www.youtube.com/watch?v=pLcM3mpZSV0)
